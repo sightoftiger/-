@@ -1,14 +1,14 @@
-#include<stdio.h>
+// #include<stdio.h>
 
-main(){
-  int i,j;
-  printf("1부터 9까지의 숫자를 입력하세요.\n");
-  scanf("%d",&i);
+// main(){
+//   int i,j;
+//   printf("1부터 9까지의 숫자를 입력하세요.\n");
+//   scanf("%d",&i);
 
-  j=1;
+//   j=1;
 
-  while(j<10){
-    printf("%d*%d=%d\n",i,j,i*j);
-    j++;
-  }
-}
+//   while(j<10){
+//     printf("%d*%d=%d\n",i,j,i*j);
+//     j++;
+//   }
+// }
